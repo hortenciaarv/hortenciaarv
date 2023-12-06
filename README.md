@@ -1,5 +1,6 @@
 ### Hi, I'm Horte 😄
 - 🔭 I’m a Robotics student @ Tec de Monterrey
+- Click [here](https://soyhorteconh.github.io/) to go to my personal website.
 
 <!--
 **soyhorteconh/soyhorteconh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
