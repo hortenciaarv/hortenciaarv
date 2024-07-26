@@ -1,7 +1,6 @@
 ### Hi, I'm Horte 😄
 - 🔭 I’m a Robotics engineer!, currently a MS in Computer Science student @Tec de Monterrey.
 - Click [here](https://soyhorteconh.github.io/) to go to my personal website.
-- Leave me a message: ha.ramirezv@outlook.com
 
 <!--
 **soyhorteconh/soyhorteconh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
