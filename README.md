@@ -1,5 +1,5 @@
 ### Hi, I'm Horte 😄
-- 🔭 I’m a Robotics student @ Tec de Monterrey
+- 🔭 I’m a Robotics engineer!
 - Click [here](https://soyhorteconh.github.io/) to go to my personal website.
 
 <!--
