@@ -1,5 +1,5 @@
 ### Hi, I'm Hortencia A. Ramirez Vazquez 😄
-- 🔭 I’m a Robotics engineer!, currently a Master's student in Computational Science @Tecnológico de Monterrey
+- I’m a Robotics engineer!
 - Click [here](https://soyhorteconh.github.io/) to go to my personal website.
 
 <!--
