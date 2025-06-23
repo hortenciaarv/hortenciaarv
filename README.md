@@ -1,6 +1,6 @@
 ### Hi, I'm Horte 😄
 - I’m a Robotics engineer!
-- Click [here](https://soyhorteconh.github.io/) to go to my personal website.
+- Click [here](https://hortenciaarv.github.io/) to go to my personal website.
 
 <!--
 **soyhorteconh/soyhorteconh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
