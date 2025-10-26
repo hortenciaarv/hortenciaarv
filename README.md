@@ -7,14 +7,15 @@
 ```python
 class WhoAmI:
 	user = 'Horte Ramírez'
-	current_work = 'Master’s Student'
+	background = 'Robotics Engineer'
+	current_work = 'Master’s Student in Computer Science'
 	hobbies = [
-		'Painting',
 		'Working out',
-		'Reading',  
+		'Reading',
+		'Robotics', 
 		'Being up all night chasing that ONE BUG...'
 	]
-	
+
 	def getCity():
 		return Monterrey()
 	
@@ -23,7 +24,6 @@ class WhoAmI:
 		EmpowerWomenInScience()
 		LearnFrench()
 		CreateContent()
-
  ```
 
 ### How to reach me?🌐
