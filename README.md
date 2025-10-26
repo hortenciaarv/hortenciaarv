@@ -1,18 +1,31 @@
-### Hi, I'm Horte 😄
-- I’m a Robotics engineer!
-- Click [here](https://hortenciaarv.github.io/) to go to my personal website.
+<div align="center">
+<h1 align="center">Hello</a> 👋</h1>
+</div>
 
-<!--
-**soyhorteconh/soyhorteconh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+```python
+ class WhoAmI:
+ 	user = 'Horte Ramírez'
+		current_work = 'Master Student'
+		hobbies = [
+				'Painting',
+				'Working out',
+				'Reading', # Add me on GoodReads! @Flautia
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Monterrey_Mexico()
+	
+	def Ambitions():
+		LearnFrench()
+		CreateContent()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me?🌐
+
+🌟 Check out my portfolio <a href="https://hortenciaarv.github.io/">here</a> <br>
+📬 Feel free to shoot me an email: ha.ramirezv@outlook.com
