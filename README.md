@@ -1,28 +1,28 @@
 <div align="center">
-<h1 align="center">Hello</a> 👋</h1>
-</div>
+<h1 align="center">Hello, I'm Horte</a> 👋</h1>
 
 ## Who am I?
 
 ```python
- class WhoAmI:
- 	user = 'Horte Ramírez'
-		current_work = 'Master Student'
-		hobbies = [
-				'Painting',
-				'Working out',
-				'Reading', # Add me on GoodReads! @Flautia
-				'Being up all Night chasing that ONE BUG...'
-			]
+class WhoAmI:
+	user = 'Horte Ramírez'
+	current_work = 'Master’s Student'
+	hobbies = [
+		'Painting',
+		'Working out',
+		'Reading',  
+		'Being up all night chasing that ONE BUG...'
+	]
 	
 	def getCity():
-		return Monterrey_Mexico()
+		return Monterrey()
 	
 	def Ambitions():
+		PublishResearch()
+		EmpowerWomenInScience()
 		LearnFrench()
 		CreateContent()
-		# Assume 10 more awesome ambitions here  ;)
-	
+
  ```
 
 ## How to reach me?🌐
